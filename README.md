@@ -41,6 +41,5 @@
  #### User Stories
  - As a user, I should be able to create, read, update, and delete meals to my meal list
  - As a user, I should be able to display information about each individual meal
- - Bonus: I should be able to create a user profile.
- - Bonus: As a user, I should be able to create a DJ profile to manage the song list provided.
+ - Bonus: As a user, I should be able to create a profile to manage my meals.
  
