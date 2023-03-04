@@ -1,4 +1,4 @@
-# Project 4 - Meal Prepper
+# Capstone - Meal Prepper
 
 ## Manage your meals throughout the week! 
  
